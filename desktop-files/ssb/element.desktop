@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Element
+Comment=Element (Ice SSB)
+Exec=firefox --profile /home/alarm/.mozilla/firefox/ssb.default --ssb https://app.element.io/
+IceFirefox=element
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/alarm/.local/share/icons/element.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=ICE-SSB-element
+StartupNotify=true

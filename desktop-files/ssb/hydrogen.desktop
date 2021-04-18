@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Hydrogen
+Comment=Hydrogen (Ice SSB)
+Exec=firefox --kiosk --profile /home/alarm/.mozilla/firefox/ssb.default https://hydrogen.element.io/
+IceFirefox=element
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/alarm/.local/share/ice/icons/hydrogen.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=ICE-SSB-element
+StartupNotify=true

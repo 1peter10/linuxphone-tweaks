@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=SCIM Input Method
+Name[nl]=SCIM Invoer-methode
+Name[ru]=Метод ввода SCIM
+Name[zh_TW]=SCIM 輸入法框架
+Comment=Configure the Smart Common Input Method platform
+Comment[nl]=Het Smart Common Input Method platform instellen
+Comment[ru]=Конфигурировать платформу SCIM (Smart Common Input Method)
+Comment[zh_TW]=SCIM 組態設定
+Exec=scim-setup
+Icon=scim-setup
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Settings;
+NotShowIn=KDE;
+X-Ubuntu-Gettext-Domain=scim
+NoDisplay=true

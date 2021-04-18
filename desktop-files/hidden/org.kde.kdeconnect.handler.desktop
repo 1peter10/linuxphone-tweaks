@@ -1,0 +1,34 @@
+[Desktop Entry]
+Name=KDE Connect URL Handler
+Name[az]=KDE Connect URL işləyicisi
+Name[ca]=Gestor d'URL del KDE Connect
+Name[ca@valencia]=Gestor d'URL del KDE Connect
+Name[cs]=Nástroj pro práci s URL v KDE Connect
+Name[da]=URL-håndtering til KDE Connect
+Name[de]=KDE Connect-SMS-Dienstprogramm für URLs (Adressen)
+Name[el]=Χειριστής URL του KDE Connect
+Name[en_GB]=KDE Connect URL Handler
+Name[es]=Controlador de URL de KDE Connect
+Name[et]=KDE Connecti URL-ide käitleja
+Name[eu]=KDE Connect-eko URL maneiatzailea
+Name[fi]=KDE Connectin verkko-osoitekäsittelijä
+Name[fr]=Gestionnaire d'URL de KDE Connect
+Name[ia]=Gerente de URL de KDE Connect
+Name[it]=Gestore URL di KDE Connect
+Name[ko]=KDE Connect URL 처리기
+Name[nl]=URL behandelaar van KDE-Connect
+Name[nn]=KDE Connect adressehandsamar
+Name[pl]=Obsługa adresów URL dla KDE Connect
+Name[pt]=Tratamento de URL's do KDE Connect
+Name[pt_BR]=Tratamento de URLs do KDE Connect
+Name[ro]=Manipulant de URL KDE Connect
+Name[sv]=KDE-anslut webbadresshanterare
+Name[uk]=Обробник адрес KDE Connect
+Name[x-test]=xxKDE Connect URL Handlerxx
+Name[zh_CN]=KDE Connect URL 处理程序
+Exec=kdeconnect-handler %U
+Icon=kdeconnect
+Type=Application
+NoDisplay=true
+
+MimeType=x-scheme-handler/tel;x-scheme-handler/sms
