@@ -8,6 +8,10 @@ A few little things that I have accumulated over time:
 
 More to come!
 
+For some content regarding Linux Phones, make sure to check out my blog [linmob.net](https://linmob.net/)!
+
+I also maintain an [apps list](https://linmobapps.frama.io), share a [few Arch Linux PKGBUILD scripts](https://framagit.org/linmobapps/pkgbuilds), one [APKBUILD](https://framagit.org/linmobapps/apkbuilds) and a [flatpak manifest](https://framagit.org/1peter10/flatpaks) at other places.
+
 These tweaks were previously hosted on https://framagit.org/linmobapps/linmobapps.frama.io.
 
 
